@@ -1,1 +1,1 @@
-this is a test
+This is a demo of a CI pipeline
