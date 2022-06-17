@@ -19,7 +19,6 @@ jobs:
           paths:
             - ./node_modules
   test:
-    working_directory: ~/
     docker:
       - image: circleci/node:13.8.0
     steps:                
