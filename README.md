@@ -1,1 +1,1 @@
-This is a quick demo of a CI pipeline
+A quick demo of a CI pipeline
