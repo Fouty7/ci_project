@@ -1,1 +1,1 @@
-A quick demo of a CI pipeline
+A quick demo of a ci pipeline using CicrleCi
